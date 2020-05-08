@@ -1,5 +1,4 @@
-# Natural-Language-Processing-
-Natural Language Processing  - Machine Learning
+# Natural-Language-Processing - Machine Learning
 
 In this NLP project we will be classifing Yelp Reviews into 1 star or 5 star categories based off the text content in the reviews.
 
